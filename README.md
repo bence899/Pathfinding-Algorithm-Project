@@ -1,4 +1,4 @@
-Pathfinding Visualizer
+#Pathfinding Visualizer
 
 Welcome to the **Pathfinding Visualizer** web application! 
 
